@@ -12,6 +12,9 @@ E-mail : luc723@hanyang.ac.kr
 4. 주연수<br>
 E-mail : jooys130@naver.com
 
+***
+
 ### Self-Introduction
 Name : 남유진<br>
-E-mail : dbwls7ska@naver.com
+E-mail : dbwls7ska@naver.com<br>
+Major : 소프트웨어학부 컴퓨터전공
