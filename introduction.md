@@ -1,4 +1,4 @@
-### Team Name : 성준은유연하조
+## Team Name : 성준은유연하조
 
 1. 이준호<br>
 E-mail : plusjob70@hanyang.ac.kr
@@ -14,7 +14,7 @@ E-mail : jooys130@naver.com
 
 ***
 
-### Self-Introduction
-Name : 남유진<br>
-E-mail : dbwls7ska@naver.com<br>
-Major : 소프트웨어학부 컴퓨터전공
+## Self-Introduction
+- Name : 남유진<br>
+- E-mail : dbwls7ska@naver.com<br>
+- Major : 소프트웨어학부 컴퓨터전공
